@@ -6,4 +6,4 @@ I design from first principles, emphasizing correctness, predictability, and beh
 
 Current interests include transactional storage engines, concurrency control, recovery, and query execution. Most work takes the form of small prototypes and design notes exploring internal trade-offs.
 
-Outside engineering, I enjoy table tennis, Formula 1, nature, and travel.
+Outside engineering, I enjoy table tennis, Formula 1, [nature](https://myke.pro/gallery), and travel.
