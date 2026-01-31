@@ -1,6 +1,6 @@
 ## About
 
-Systems software engineer focused on databases, distributed systems, and financial infrastructure.
+Software engineer focused on databases, distributed systems, and financial infrastructure.
 
 I design from first principles, emphasizing correctness, predictability, and behavior under real constraints such as high concurrency, limited resources, and failure.
 
