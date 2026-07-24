@@ -1,4 +1,5 @@
 ## About
+A ship in the harbor is safe, but that's not what ships are built for!
 
 Systems engineer. Distributed and Database systems.
 
@@ -7,4 +8,4 @@ and behavior under real-world constraints such as high concurrency, limited reso
 
 Current research interests include Linux kernel-based I/O models (epoll and io_uring ), transactional storage engines, concurrency control, recovery mechanisms.
 
-Outside engineering, I love to run (10K in 55 minutes), Listening to Hans Zimmer and Ludovico Einaudi.
+Outside engineering, I love to run (10K in 55 minutes) Listening to Hans Zimmer and Ludovico Einaudi.
