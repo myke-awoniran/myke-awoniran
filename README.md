@@ -1,6 +1,4 @@
 ## About
-A ship in the harbor is safe, but that's not what ships are built for!
-
 Systems engineer. Distributed and Database systems.
 
 I design systems from first principles, emphasizing correctness, safety, performance, experience, 
