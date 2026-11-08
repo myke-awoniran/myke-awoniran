@@ -1,7 +1,8 @@
 ## About
- 
+Aspiring Beaver!
+
 Systems engineer. Distributed and database systems.
- 
+
 I design systems from first principles, emphasizing correctness, safety, performance, experience, and behavior under real-world constraints such as high concurrency, limited resources, and failures.
  
 Founder and lead @ [dbms.engineering](https://dbms.engineering)
