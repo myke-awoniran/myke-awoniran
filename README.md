@@ -8,5 +8,5 @@ I design systems from first principles, emphasizing correctness, safety, perform
 Founder and lead @ [dbms.engineering](https://dbms.engineering)
  
 Current research interests include Linux kernel-based I/O models (epoll and io_uring), transactional storage engines, concurrency control, and recovery mechanisms.
- 
-Outside engineering, I love to run (10K in 55 minutes) and listen to Hans Zimmer and Ludovico Einaudi.
+
+Outside engineering, I love to run (10K in ~~55~~ 50 minutes) and listen to Hans Zimmer and Ludovico Einaudi.
